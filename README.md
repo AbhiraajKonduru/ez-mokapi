@@ -21,6 +21,8 @@ ez-mokapi is a lightning-fast, zero-config CLI tool designed for developers who 
 - **Simulate error handling**: Easily simulate error handling by returning an error object from the handler function.
 
 ---
+<img width="1158" height="378" alt="Screenshot 2026-03-24 220508" src="https://github.com/user-attachments/assets/12e5bfa0-9c82-437c-97bc-7b81175299eb" />
+---
 
 ## 🛠️ Quick Start
 
