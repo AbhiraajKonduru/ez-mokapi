@@ -22,13 +22,6 @@ Mokapi is a lightning-fast, zero-config CLI tool designed for developers who nee
 
 ## 🛠️ Quick Start
 
-Want to see it in action without writing a single line of code? Try the built-in demo mode:
-
-```bash
-npx mokapi --demo
-```
-*This will create a minimal demo handler file and start a local server for you to test against.*
-
 ### Running Your Own Mocks
 
 Create a tiny JavaScript handler (`mock.js`):
